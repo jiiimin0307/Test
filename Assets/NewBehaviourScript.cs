@@ -5,6 +5,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     public Vector3 position;
+    public Transform transform 
     // Start is called before the first frame update
     void Start()
     {
